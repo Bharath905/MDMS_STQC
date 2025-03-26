@@ -1,0 +1,4 @@
+
+Data Efficiency & Network Efficiency in UMS (Utility Management System) Dashboard
+----------------------------------------------------------------------------------
+In a Utility Management System (UMS), the dashboard displays key performance indicators related to smart meter operations. Two critical metrics often shown are Data Efficiency (%) and Network Efficiency (%), which help utilities assess meter communication reliability and data accuracy.
